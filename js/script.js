@@ -4,4 +4,4 @@ var nome = prompt("Inserisci il nome");
 var cognome = prompt("Inserisci il cognome");
 // Inserisci il colore preferito//
 var colorePreferito = prompt("Inserisci il colore preferito");
-document.getElementById('password').innerHTML = nome + " " + cognome + " "  + colorePreferito + "19";
+document.getElementById('password').innerHTML = nome + cognome + colorePreferito + "19";
